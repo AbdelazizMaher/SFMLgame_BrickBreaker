@@ -32,5 +32,11 @@ include_directories(
 find_package(SFML 2.5 COMPONENTS system window graphics REQUIRED)
 link_libraries(sfml-system sfml-window sfml-graphics)
 
+# Define the resources directory
+set(RESOURCE_DIR "${CMAKE_SOURCE_DIR}/resources")
+
+# Ensure the resources directory is copied to the build directory
+file(COPY ${RESOURCE_DIR} DESTINATION ${CMAKE_BINARY_DIR}/resources)
+
 add_executable(${PROJECT_NAME} ${SRC_FILES})
 install(TARGETS ${PROJECT_NAME} DESTINATION bin)
