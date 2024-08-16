@@ -22,7 +22,8 @@ game::game()
 	}
 
 	// load font from file
-	m_verdana.loadFromFile("C:/Windows/fonts/Verdana.ttf");
+	//m_verdana.loadFromFile("C:/Windows/fonts/Verdana.ttf");
+	m_verdana.loadFromFile("/usr/share/fonts/truetype/msttcorefonts/Verdana.ttf");
 
 	// configure text objects
 	m_stateText.setFont(m_verdana);
