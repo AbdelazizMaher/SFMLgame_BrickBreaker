@@ -1,7 +1,0 @@
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/install/strip.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/install/local.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/install.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/list_install_components.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/rebuild_cache.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/edit_cache.dir
-/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir
