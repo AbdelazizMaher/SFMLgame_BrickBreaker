@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/main.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/main.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/main.cpp"
+}
+]

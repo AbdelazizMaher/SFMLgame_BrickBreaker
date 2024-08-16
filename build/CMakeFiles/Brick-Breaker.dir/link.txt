@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Brick-Breaker.dir/main.cpp.o  -o Brick-Breaker 

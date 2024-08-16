@@ -1,28 +1,26 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(Device-Controller)
+project(Brick-Breaker)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 set(
     SRC_FILES
-    src/clientHandler/clientHandler.cpp
-    src/clientHandler/httpGetHandle.cpp
-    src/parser/parser.cpp
-    src/deviceManager/deviceManager.cpp
-    src/deviceManager/led.cpp
-    src/deviceManager/airConditioner.cpp
-    src/serviceManager/serviceManager.cpp
+
     main.cpp    
 )
 
 include_directories(
+    resources/
     src/
-    src/clientHandler
-    src/deviceManger
-    src/parser
-    src/serviceManger
+    src/background
+    src/ball
+    src/paddle
+    src/brick
+    src/entity
+    src/game
+    src/interaction
 )
 
 add_executable(${PROJECT_NAME} ${SRC_FILES})
