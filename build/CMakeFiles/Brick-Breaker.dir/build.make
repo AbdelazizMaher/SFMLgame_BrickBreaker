@@ -57,9 +57,100 @@ include CMakeFiles/Brick-Breaker.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Brick-Breaker.dir/flags.make
 
+CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o: ../src/background/background.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp > CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp -o CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o: ../src/ball/ball.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp > CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp -o CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o: ../src/brick/brick.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp > CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp -o CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o: ../src/entity/entityManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp > CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp -o CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o: ../src/game/game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp > CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp -o CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o: ../src/paddle/paddle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp > CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp -o CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.s
+
+CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
+CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o: ../src/interaction/entitesInteraction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp
+
+CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp > CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.i
+
+CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp -o CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.s
+
 CMakeFiles/Brick-Breaker.dir/main.cpp.o: CMakeFiles/Brick-Breaker.dir/flags.make
 CMakeFiles/Brick-Breaker.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Brick-Breaker.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Brick-Breaker.dir/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brick-Breaker.dir/main.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/main.cpp
 
 CMakeFiles/Brick-Breaker.dir/main.cpp.i: cmake_force
@@ -72,18 +163,32 @@ CMakeFiles/Brick-Breaker.dir/main.cpp.s: cmake_force
 
 # Object files for target Brick-Breaker
 Brick__Breaker_OBJECTS = \
+"CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o" \
+"CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o" \
 "CMakeFiles/Brick-Breaker.dir/main.cpp.o"
 
 # External object files for target Brick-Breaker
 Brick__Breaker_EXTERNAL_OBJECTS =
 
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o
+Brick-Breaker: CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/main.cpp.o
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/build.make
 Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1
 Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1
 Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Brick-Breaker"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Brick-Breaker"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Brick-Breaker.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

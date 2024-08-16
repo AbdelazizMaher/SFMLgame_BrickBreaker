@@ -1,6 +1,41 @@
 [
 {
   "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
+  "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp",
+  "file": "/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp"
+},
+{
+  "directory": "/home/abdelaziz/SFMLgame_BrickBreaker/build",
   "command": "/usr/bin/c++   -I/home/abdelaziz/SFMLgame_BrickBreaker/resources -I/home/abdelaziz/SFMLgame_BrickBreaker/src -I/home/abdelaziz/SFMLgame_BrickBreaker/src/background -I/home/abdelaziz/SFMLgame_BrickBreaker/src/ball -I/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle -I/home/abdelaziz/SFMLgame_BrickBreaker/src/brick -I/home/abdelaziz/SFMLgame_BrickBreaker/src/entity -I/home/abdelaziz/SFMLgame_BrickBreaker/src/game -I/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction  -g   -std=gnu++17 -o CMakeFiles/Brick-Breaker.dir/main.cpp.o -c /home/abdelaziz/SFMLgame_BrickBreaker/main.cpp",
   "file": "/home/abdelaziz/SFMLgame_BrickBreaker/main.cpp"
 }

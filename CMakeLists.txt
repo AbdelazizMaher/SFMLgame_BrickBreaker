@@ -7,7 +7,13 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 set(
     SRC_FILES
-
+    src/background/background.cpp
+    src/ball/ball.cpp
+    src/brick/brick.cpp
+    src/entity/entityManager.cpp
+    src/game/game.cpp
+    src/paddle/paddle.cpp
+    src/interaction/entitesInteraction.cpp
     main.cpp    
 )
 

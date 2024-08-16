@@ -74,12 +74,12 @@ clean: CMakeFiles/Brick-Breaker.dir/clean
 CMakeFiles/Brick-Breaker.dir/all:
 	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/depend
 	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=1,2 "Built target Brick-Breaker"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target Brick-Breaker"
 .PHONY : CMakeFiles/Brick-Breaker.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Brick-Breaker.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles 9
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Brick-Breaker.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles 0
 .PHONY : CMakeFiles/Brick-Breaker.dir/rule

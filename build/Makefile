@@ -196,6 +196,195 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/background/background.o: src/background/background.cpp.o
+
+.PHONY : src/background/background.o
+
+# target to build an object file
+src/background/background.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o
+.PHONY : src/background/background.cpp.o
+
+src/background/background.i: src/background/background.cpp.i
+
+.PHONY : src/background/background.i
+
+# target to preprocess a source file
+src/background/background.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.i
+.PHONY : src/background/background.cpp.i
+
+src/background/background.s: src/background/background.cpp.s
+
+.PHONY : src/background/background.s
+
+# target to generate assembly for a file
+src/background/background.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.s
+.PHONY : src/background/background.cpp.s
+
+src/ball/ball.o: src/ball/ball.cpp.o
+
+.PHONY : src/ball/ball.o
+
+# target to build an object file
+src/ball/ball.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o
+.PHONY : src/ball/ball.cpp.o
+
+src/ball/ball.i: src/ball/ball.cpp.i
+
+.PHONY : src/ball/ball.i
+
+# target to preprocess a source file
+src/ball/ball.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.i
+.PHONY : src/ball/ball.cpp.i
+
+src/ball/ball.s: src/ball/ball.cpp.s
+
+.PHONY : src/ball/ball.s
+
+# target to generate assembly for a file
+src/ball/ball.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.s
+.PHONY : src/ball/ball.cpp.s
+
+src/brick/brick.o: src/brick/brick.cpp.o
+
+.PHONY : src/brick/brick.o
+
+# target to build an object file
+src/brick/brick.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o
+.PHONY : src/brick/brick.cpp.o
+
+src/brick/brick.i: src/brick/brick.cpp.i
+
+.PHONY : src/brick/brick.i
+
+# target to preprocess a source file
+src/brick/brick.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.i
+.PHONY : src/brick/brick.cpp.i
+
+src/brick/brick.s: src/brick/brick.cpp.s
+
+.PHONY : src/brick/brick.s
+
+# target to generate assembly for a file
+src/brick/brick.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.s
+.PHONY : src/brick/brick.cpp.s
+
+src/entity/entityManager.o: src/entity/entityManager.cpp.o
+
+.PHONY : src/entity/entityManager.o
+
+# target to build an object file
+src/entity/entityManager.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o
+.PHONY : src/entity/entityManager.cpp.o
+
+src/entity/entityManager.i: src/entity/entityManager.cpp.i
+
+.PHONY : src/entity/entityManager.i
+
+# target to preprocess a source file
+src/entity/entityManager.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.i
+.PHONY : src/entity/entityManager.cpp.i
+
+src/entity/entityManager.s: src/entity/entityManager.cpp.s
+
+.PHONY : src/entity/entityManager.s
+
+# target to generate assembly for a file
+src/entity/entityManager.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.s
+.PHONY : src/entity/entityManager.cpp.s
+
+src/game/game.o: src/game/game.cpp.o
+
+.PHONY : src/game/game.o
+
+# target to build an object file
+src/game/game.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o
+.PHONY : src/game/game.cpp.o
+
+src/game/game.i: src/game/game.cpp.i
+
+.PHONY : src/game/game.i
+
+# target to preprocess a source file
+src/game/game.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.i
+.PHONY : src/game/game.cpp.i
+
+src/game/game.s: src/game/game.cpp.s
+
+.PHONY : src/game/game.s
+
+# target to generate assembly for a file
+src/game/game.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.s
+.PHONY : src/game/game.cpp.s
+
+src/interaction/entitesInteraction.o: src/interaction/entitesInteraction.cpp.o
+
+.PHONY : src/interaction/entitesInteraction.o
+
+# target to build an object file
+src/interaction/entitesInteraction.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o
+.PHONY : src/interaction/entitesInteraction.cpp.o
+
+src/interaction/entitesInteraction.i: src/interaction/entitesInteraction.cpp.i
+
+.PHONY : src/interaction/entitesInteraction.i
+
+# target to preprocess a source file
+src/interaction/entitesInteraction.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.i
+.PHONY : src/interaction/entitesInteraction.cpp.i
+
+src/interaction/entitesInteraction.s: src/interaction/entitesInteraction.cpp.s
+
+.PHONY : src/interaction/entitesInteraction.s
+
+# target to generate assembly for a file
+src/interaction/entitesInteraction.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.s
+.PHONY : src/interaction/entitesInteraction.cpp.s
+
+src/paddle/paddle.o: src/paddle/paddle.cpp.o
+
+.PHONY : src/paddle/paddle.o
+
+# target to build an object file
+src/paddle/paddle.cpp.o:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o
+.PHONY : src/paddle/paddle.cpp.o
+
+src/paddle/paddle.i: src/paddle/paddle.cpp.i
+
+.PHONY : src/paddle/paddle.i
+
+# target to preprocess a source file
+src/paddle/paddle.cpp.i:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.i
+.PHONY : src/paddle/paddle.cpp.i
+
+src/paddle/paddle.s: src/paddle/paddle.cpp.s
+
+.PHONY : src/paddle/paddle.s
+
+# target to generate assembly for a file
+src/paddle/paddle.cpp.s:
+	$(MAKE) -f CMakeFiles/Brick-Breaker.dir/build.make CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.s
+.PHONY : src/paddle/paddle.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +401,27 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/background/background.o"
+	@echo "... src/background/background.i"
+	@echo "... src/background/background.s"
+	@echo "... src/ball/ball.o"
+	@echo "... src/ball/ball.i"
+	@echo "... src/ball/ball.s"
+	@echo "... src/brick/brick.o"
+	@echo "... src/brick/brick.i"
+	@echo "... src/brick/brick.s"
+	@echo "... src/entity/entityManager.o"
+	@echo "... src/entity/entityManager.i"
+	@echo "... src/entity/entityManager.s"
+	@echo "... src/game/game.o"
+	@echo "... src/game/game.i"
+	@echo "... src/game/game.s"
+	@echo "... src/interaction/entitesInteraction.o"
+	@echo "... src/interaction/entitesInteraction.i"
+	@echo "... src/interaction/entitesInteraction.s"
+	@echo "... src/paddle/paddle.o"
+	@echo "... src/paddle/paddle.i"
+	@echo "... src/paddle/paddle.s"
 .PHONY : help
 
 

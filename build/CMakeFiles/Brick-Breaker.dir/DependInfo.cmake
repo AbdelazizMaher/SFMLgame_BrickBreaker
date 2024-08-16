@@ -5,6 +5,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/abdelaziz/SFMLgame_BrickBreaker/main.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/main.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/background/background.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/background/background.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/ball/ball.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/ball/ball.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/brick/brick.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/brick/brick.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/entity/entityManager.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/entity/entityManager.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/game/game.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/game/game.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/interaction/entitesInteraction.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/interaction/entitesInteraction.cpp.o"
+  "/home/abdelaziz/SFMLgame_BrickBreaker/src/paddle/paddle.cpp" "/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles/Brick-Breaker.dir/src/paddle/paddle.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
