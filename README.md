@@ -1,7 +1,7 @@
 # Brick Breaker Game
 
 ## Overview
-The **Brick Breaker Game** is a classic arcade-style game where the player controls a paddle to bounce a ball and break bricks. The game is built using C++ and the Simple and Fast Multimedia Library **`(**SFML**)`**, providing an engaging visual and interactive experience.
+The **`Brick Breaker Game`** is a classic arcade-style game where the player controls a paddle to bounce a ball and break bricks. The game is built using C++ and the Simple and Fast Multimedia Library **`(**SFML**)`**, providing an engaging visual and interactive experience.
 
 ## Features
 - **`Responsive Paddle Movement`**: The player controls the `paddle using the keyboard`.
@@ -22,7 +22,7 @@ The **Brick Breaker Game** is a classic arcade-style game where the player contr
   ## Files Overview
 
 ### Main Files
-- **main.cpp**: The entry point of the application, responsible for setting up the game loop, initializing objects, and managing the game flow.
+- **`main.cpp`**: The entry point of the application, responsible for setting up the game loop, initializing objects, and managing the game flow.
 
 ### Background Module
 - **`background.h`**: Declares the `Background` class, which manages the game’s background.
@@ -39,6 +39,8 @@ The **Brick Breaker Game** is a classic arcade-style game where the player contr
 ### Entity Module
 - **`entityManager.h`**: Declares the `EntityManager` class, responsible for managing game entities.
 - **`entityManager.cpp`**: Implements the `EntityManager` class, handling entity updates and interactions.
+- **`gameEntity.h`**: Defines the `base class for all game entities`, providing common attributes and methods.
+- **`movingEntity.h`**: Extends `GameEntity` to include movement-related functionalities.
 
 ### Game Module
 - **`game.h`**: Declares the `Game` class, which encapsulates the game logic and states.
