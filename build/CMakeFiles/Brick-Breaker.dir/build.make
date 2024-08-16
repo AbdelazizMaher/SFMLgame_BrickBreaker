@@ -79,6 +79,9 @@ Brick__Breaker_EXTERNAL_OBJECTS =
 
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/main.cpp.o
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/build.make
+Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1
+Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1
+Brick-Breaker: /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
 Brick-Breaker: CMakeFiles/Brick-Breaker.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/abdelaziz/SFMLgame_BrickBreaker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Brick-Breaker"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Brick-Breaker.dir/link.txt --verbose=$(VERBOSE)
