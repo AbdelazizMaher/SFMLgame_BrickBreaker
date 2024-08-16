@@ -1,5 +1,5 @@
 #include "ball.h"
-#include "gameConstants.h"
+#include "../game/gameConstants.h"
 
 ball::ball(float x_pos, float y_pos) 
 {

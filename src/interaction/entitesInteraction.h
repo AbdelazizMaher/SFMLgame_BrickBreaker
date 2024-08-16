@@ -1,8 +1,8 @@
 #pragma once
 
-#include "ball.h"
-#include "paddle.h"
-#include "brick.h"
+#include "../ball/ball.h"
+#include "../paddle/paddle.h"
+#include "../brick/brick.h"
 
 // Determine whether two entities overlap
 bool isInteracting(const gameEntity& e1, const gameEntity& e2);

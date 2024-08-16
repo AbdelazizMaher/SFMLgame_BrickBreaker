@@ -1,5 +1,5 @@
 #pragma once
-#include "movingEntity.h"
+#include "../entity/movingEntity.h"
 
 class ball :
     public movingEntity

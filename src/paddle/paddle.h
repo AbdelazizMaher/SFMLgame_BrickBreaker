@@ -1,5 +1,6 @@
 #pragma once
-#include "movingEntity.h"
+
+#include "../entity/movingEntity.h"
 
 class paddle :
     public movingEntity

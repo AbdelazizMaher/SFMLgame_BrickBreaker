@@ -1,4 +1,4 @@
-#include "EntityManager.h"
+#include "entityManager.h"
 
 void entityManager::refresh()
 {

@@ -1,7 +1,7 @@
 #pragma once
 
 #include <random>
-#include "gameEntity.h"
+#include "../entity/gameEntity.h"
 
 class brick :
     public gameEntity

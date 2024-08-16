@@ -1,5 +1,5 @@
 #include "game.h"
-#include "entitesInteraction.h"
+#include "../interaction/entitesInteraction.h"
 
 game::game() 
 {

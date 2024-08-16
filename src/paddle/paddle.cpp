@@ -1,7 +1,7 @@
 #include "paddle.h"
 
-#include "ball.h"
-#include "gameConstants.h"
+#include "../ball/ball.h"
+#include "../game/gameConstants.h"
 
 void paddle::processPlayerInput()
 {

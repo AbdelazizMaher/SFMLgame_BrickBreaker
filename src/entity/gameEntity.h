@@ -1,7 +1,7 @@
 #pragma once
 
 #include <SFML/Graphics.hpp>
-#include "gameConstants.h"
+#include "../game/gameConstants.h"
 
 class gameEntity
 {

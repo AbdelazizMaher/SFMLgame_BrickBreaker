@@ -3,11 +3,11 @@
 #include <SFML/Graphics.hpp>
 
 #include "gameConstants.h"
-#include "background.h"
-#include "ball.h"
-#include "paddle.h"
-#include "brick.h"
-#include "entityManager.h"
+#include "../background/background.h"
+#include "../ball/ball.h"
+#include "../paddle/paddle.h"
+#include "../brick/brick.h"
+#include "../entity/entityManager.h"
 
 using namespace std::literals;
 
