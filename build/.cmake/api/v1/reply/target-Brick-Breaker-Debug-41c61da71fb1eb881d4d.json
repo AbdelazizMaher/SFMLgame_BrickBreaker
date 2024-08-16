@@ -136,10 +136,6 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-lbrickBreaker",
-				"role" : "libraries"
-			},
-			{
 				"backtrace" : 1,
 				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1",
 				"role" : "libraries"

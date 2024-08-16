@@ -30,7 +30,7 @@ include_directories(
 )
 
 find_package(SFML 2.5 COMPONENTS system window graphics REQUIRED)
-link_libraries(brickBreaker sfml-system sfml-window sfml-graphics)
+link_libraries(sfml-system sfml-window sfml-graphics)
 
 add_executable(${PROJECT_NAME} ${SRC_FILES})
 install(TARGETS ${PROJECT_NAME} DESTINATION bin)
