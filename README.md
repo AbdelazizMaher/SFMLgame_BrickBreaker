@@ -69,3 +69,7 @@ cd build
 cmake ..
 make
 ```
+
+## Project Demo Video
+
+![Brick Breaker Demo](game.mp4)
