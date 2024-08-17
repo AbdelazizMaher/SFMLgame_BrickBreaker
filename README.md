@@ -72,4 +72,4 @@ make
 
 ## Project Demo Video
 
-![Brick Breaker Demo](game.mp4)
+[![Brick Breaker Demo]](https://youtu.be/F7Q3LfNMGwM)
