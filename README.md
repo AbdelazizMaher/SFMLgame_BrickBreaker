@@ -57,11 +57,6 @@ The **`Brick Breaker Game`** is a classic arcade-style game where the player con
 - **`entitesInteraction.h`**: Declares functions that handle interactions between various game entities, such as collisions.
 - **`entitesInteraction.cpp`**: Implements interaction logic, ensuring proper responses when entities collide.
 
-### Resource Files
-- **`background.jpg`**: The background image used in the game.
-- **`ball.png`**: The image representing the ball.
-- **`brick01.png`**: The image representing a single brick.
-- **`paddle.png`**: The image representing the paddle.
 
 ## How to Build
 To build this project, use CMake to generate the necessary build files and compile the code.
