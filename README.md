@@ -3,6 +3,10 @@
 ## Overview
 The **`Brick Breaker Game`** is a classic arcade-style game where the player controls a paddle to bounce a ball and break bricks. The game is built using C++ and the Simple and Fast Multimedia Library **`(**SFML**)`**, providing an engaging visual and interactive experience.
 
+## Brick Breaker Demo
+https://github.com/user-attachments/assets/4428f5eb-903b-4233-8847-4debc133276e
+
+
 ## Reference
 [CppCon2014: Vittorio Romeo - "Quick Game Development with C++11 / C++14"](https://www.youtube.com/watch?v=TC9zhufV_Z8)
 
