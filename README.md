@@ -72,6 +72,3 @@ cmake ..
 make
 ```
 
-## Project Demo Video
-
-[![Brick Breaker Demo]](https://youtu.be/F7Q3LfNMGwM)
